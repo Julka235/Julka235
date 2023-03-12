@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Julka235
-- 👀 I’m interested in computer programming (C++), algorithms and front-end web development
-- 🌱 I’m currently learning HTML, CSS, Python and JavaScript
+- 👀 I’m interested in computer programming in C++ and Java, algorithms and web development
+- 🌱 I’m currently learning Java
 
 <!---
 - 💞️ I’m looking to collaborate on ...

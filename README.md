@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a Computer Science student passionate about co
 
 - 🎓 CS Student: Actively pursuing a Bachelor's Degree of Engineering in Computer Science at Warsaw University of Technology with a strong focus on algorithms and software development.
 
-- 📘 Interests: Algorithms, database systems, artificial intelligence and application development.
+- 📘 Interests: Algorithms, Artificial Intelligence, Database Systems and Application Development.
 
 - 🌟 Skills:
 
@@ -20,17 +20,23 @@ Welcome to my GitHub profile! I'm a Computer Science student passionate about co
 
 # 📂 Featured Projects:
 
-## Wordle Game | Python, Pygame
+## 🎮 Wordle Game | Python, Pygame
 
  - Developed a Wordle-inspired word-guessing game using Python and the Pygame library, replicating the popular word puzzle mechanics.
  - Designed a graphical user interface (GUI) using Pygame, including visual feedback for correct, incorrect, and partially correct letters.
  - Applied test-driven development (TDD) principles to ensure functionality and maintain clean, maintainable code.
 
-## Quadratic Function Graph Visualization | RISC-V
+## 📚 Flashcard App | React, Spring, mySQL, Node.js, Docker | Team Project
+
+- Developed a flashcard application utilizing a spaced repetition algorithm to enhance learning efficiency, working collaboratively in a team of four. Designed the app to be user-friendly and intuitive, ensuring a seamless experience for creating, organizing, and reviewing flashcards.
+- Implemented features allowing users to create folders, decks, and flashcards, as well as share them with friends for collaborative learning.
+- Led the UI/UX development by designing and styling the interface with CSS to provide a clean and accessible user experience. Took responsibility for database structure planning and optimizing SQL queries. Contributed to the React frontend, developing several key pages and ensuring smooth interaction between the user and the application.
+
+## 📈 Quadratic Function Graph Visualization | RISC-V
 
 - Developed a program on the RISC-V architecture to visualize quadratic functions, demonstrating expertise in low-level programming and computer architecture.
 
-## Mandelbrot set vizualization | x86-64, C
+## 🌀 Mandelbrot set vizualization | x86-64, C
 
 - Developed a program to visualize the Mandelbrot set using a combination of C and x86-64 assembly language, optimizing for performance and precision in fractal generation.
 - Created a graphical interface for visualizing the Mandelbrot set, allowing for interactive exploration (e.g., zooming and panning) to observe fractal details at different scales.

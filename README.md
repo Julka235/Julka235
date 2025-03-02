@@ -20,11 +20,18 @@ Welcome to my GitHub profile! I'm a Computer Science student passionate about co
 
 # 📂 Featured Projects:
 
+## 🎙️ Speech Command Classifier | Python, PyTorch, Librosa
+
+- Developed a speech recognition model to classify command audio files using deep learning techniques.
+- Implemented and compared three neural network architectures: 2D CNN, 1D CNN, and a ResNet18-based pre-trained model.
+- Preprocessed audio data with resampling, Voice Activity Detection (VAD), padding, and log spectrogram conversion for improved model performance.
+- Evaluated models using confusion matrices and loss analysis, optimizing hyperparameters for better accuracy.
+- 
 ## 🎮 Wordle Game | Python, Pygame
 
- - Developed a Wordle-inspired word-guessing game using Python and the Pygame library, replicating the popular word puzzle mechanics.
- - Designed a graphical user interface (GUI) using Pygame, including visual feedback for correct, incorrect, and partially correct letters.
- - Applied test-driven development (TDD) principles to ensure functionality and maintain clean, maintainable code.
+- Developed a Wordle-inspired word-guessing game using Python and the Pygame library, replicating the popular word puzzle mechanics.
+- Designed a graphical user interface (GUI) using Pygame, including visual feedback for correct, incorrect, and partially correct letters.
+- Applied test-driven development (TDD) principles to ensure functionality and maintain clean, maintainable code.
 
 ## 📚 Flashcard App | React, Spring, mySQL, Node.js, Docker | Team Project
 

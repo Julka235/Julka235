@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a Computer Science student passionate about co
 - Designed a graphical user interface (GUI) using Pygame, including visual feedback for correct, incorrect, and partially correct letters.
 - Applied test-driven development (TDD) principles to ensure functionality and maintain clean, maintainable code.
 
-## 📚 Flashcard App | React, Spring, mySQL, Node.js, Docker | Team Project
+## 📚 Flashcard Web Application | React, Spring, mySQL, Node.js, Docker | Team Project
 
 - Developed a flashcard application utilizing a spaced repetition algorithm to enhance learning efficiency, working collaboratively in a team of four. Designed the app to be user-friendly and intuitive, ensuring a seamless experience for creating, organizing, and reviewing flashcards.
 - Implemented features allowing users to create folders, decks, and flashcards, as well as share them with friends for collaborative learning.

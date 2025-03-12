@@ -1,22 +1,27 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm a Computer Science student passionate about coding, problem-solving, and exploring the endless possibilities of technology. Here's a little more about me:
+Welcome to my GitHub profile!Here's a little more about me:
 
-# 🚀 About Me:
+##🚀 About Me:
+I am a Computer Science student at Warsaw University of Technology, pursuing a Bachelor of Engineering degree. I have a strong passion for developing impactful software and exploring the intricate challenges of algorithms and artificial intelligence.
 
-- 🎓 CS Student: Actively pursuing a Bachelor's Degree of Engineering in Computer Science at Warsaw University of Technology with a strong focus on algorithms and software development.
+### 📚 What I Love:
 
-- 📘 Interests: Algorithms, Artificial Intelligence, Database Systems and Application Development.
+- **Algorithms** that solve real-world problems
+- **Artificial Intelligence** and machine learning
+- Designing efficient **Database** Systems
+- Developing innovative **Applications**
 
-- 🌟 Skills:
+### 💻 My Skills:
 
-  - Programming Languages: Python, C++, Java, SQL, Assembly, C
+- **Programming Languages**: Python, C++, Java, SQL, Assembly
+- **Web Development**: HTML, CSS, React, JavaScript (basics)
+- **Software Development**: Algorithms & Data Structures (DSA), Object-Oriented Programming (OOP), Test-Driven Development (TDD)
+- **Tools**: Git, GitHub, Gitlab, Linux, Docker, Jupyter
 
-  - Web Development: HTML, CSS, React and Javascript (basics)
- 
-  - Software Development: Algorithms, Data Structures, Object-Oriented Programming (OOP), Test-Driven Development (TDD)
- 
-  - Tools & Development: Git, Github, Linux, Docker (basics)
+I'm always eager to learn, collaborate, and bring ideas to life!
+
+[C++](C++) [Python](Python) [Java](Java) [HTML](HTML) [CSS](CSS) [Assembly](Assembly) [SQL](SQL) [Git](Git) [Linux](Linux) [Jupyter](Jupyter)
 
 # 📂 Featured Projects:
 

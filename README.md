@@ -31,6 +31,7 @@ I'm always eager to learn, collaborate, and bring ideas to life!
     <img src="https://skillicons.dev/icons?i=js,react,cmake,bash,docker" />
   </a>
 </p>
+
 # 📂 Featured Projects:
 
 ## 🎤 Speech Command Classifier | Python, PyTorch, Librosa

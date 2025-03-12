@@ -3,6 +3,7 @@
 Welcome to my GitHub profile!Here's a little more about me:
 
 ##🚀 About Me:
+
 I am a Computer Science student at Warsaw University of Technology, pursuing a Bachelor of Engineering degree. I have a strong passion for developing impactful software and exploring the intricate challenges of algorithms and artificial intelligence.
 
 ### 📚 What I Love:

@@ -23,7 +23,7 @@ I'm always eager to learn, collaborate, and bring ideas to life!
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,mysql,java,git,html,css,js,react,cmake,vscode,ubuntu,linux,bash,windows,docker" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,mysql,java,git,html,css,js,react,cmake,vscode,ubuntu,linux,bash,windows,docker&perline=9" />
   </a>
 </p>
 # 📂 Featured Projects:

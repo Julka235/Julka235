@@ -21,7 +21,7 @@ I am a Computer Science student at Warsaw University of Technology, pursuing a B
 
 I'm always eager to learn, collaborate, and bring ideas to life!
 
-[C++](C++) [Python](Python) [Java](Java) [HTML](HTML) [CSS](CSS) [Assembly](Assembly) [SQL](SQL) [Git](Git) [Linux](Linux) [Jupyter](Jupyter)
+![C++](https://pl.wikipedia.org/wiki/C%2B%2B#/media/Plik:ISO_C++_Logo.svg) [Python](Python) [Java](Java) [HTML](HTML) [CSS](CSS) [Assembly](Assembly) [SQL](SQL) [Git](Git) [Linux](Linux) [Jupyter](Jupyter)
 
 # 📂 Featured Projects:
 

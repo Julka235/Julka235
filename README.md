@@ -21,8 +21,11 @@ I am a Computer Science student at Warsaw University of Technology, pursuing a B
 
 I'm always eager to learn, collaborate, and bring ideas to life!
 
-![C++](https://pl.wikipedia.org/wiki/C%2B%2B#/media/Plik:ISO_C++_Logo.svg) [Python](Python) [Java](Java) [HTML](HTML) [CSS](CSS) [Assembly](Assembly) [SQL](SQL) [Git](Git) [Linux](Linux) [Jupyter](Jupyter)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,py,mysql,java,git,html,css,js,react,cmake,vscode,ubuntu,linux,bash,windows,docker" />
+  </a>
+</p>
 # 📂 Featured Projects:
 
 ## 🎤 Speech Command Classifier | Python, PyTorch, Librosa
